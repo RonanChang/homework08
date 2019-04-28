@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 30px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 30% 30% auto;
+}
